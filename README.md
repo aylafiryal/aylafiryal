@@ -1,4 +1,6 @@
-![github](https://user-images.githubusercontent.com/83856972/174027817-115dba75-d4f7-4852-99ac-a32dc550e2ee.png)
+![github](https://user-images.githubusercontent.com/83856972/175939139-ff986a0c-995f-4eb1-86a9-67a841c152ec.png)
+
+
 
 <!-- - 👋 Hi, I’m @aylafiryal -->
 <!-- - 👀 I’m interested in ... -->
@@ -10,3 +12,4 @@
 aylafiryal/aylafiryal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
