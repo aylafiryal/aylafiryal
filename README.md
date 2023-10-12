@@ -3,6 +3,14 @@
 </div>
 
 <!-- - Divider -->
+<div align="center">
+  <img src="https://github.com/aylafiryal/aylafiryal/blob/main/assets/tumblr_ff2adb4ad02d2a074da3af11b2b2d949_5348c60f_2048.png">
+</div>
+
+</br>
+</br>
+</br>
+
 
 <!-- - Languages I Love: -->
 <div align="center">
@@ -34,4 +42,11 @@
   </a>
 </div>
 
+</br>
+</br>
+</br>
+
 <!-- - Divider -->
+<div align="center">
+  <img src="https://github.com/aylafiryal/aylafiryal/blob/main/assets/tumblr_ff2adb4ad02d2a074da3af11b2b2d949_5348c60f_2048.png">
+</div>
