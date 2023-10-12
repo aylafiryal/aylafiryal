@@ -23,6 +23,9 @@
 <!-- - Social Media I Love: -->
 <div align="center">
   <h1>Social Media I Love:</h1>
+  <a href="mailto:auliafiryalsyarifa@gmail.com">
+    <img  alt="Linkedin" width="119" hight="143" src="https://github.com/aylafiryal/aylafiryal/blob/main/assets/mail.png" />
+  </a>
   <a href="https://www.linkedin.com/in/aylafiryal/">
     <img  alt="Linkedin" width="109" hight="117" src="https://github.com/aylafiryal/aylafiryal/blob/main/assets/ln.png" />
   </a>
