@@ -1,5 +1,7 @@
 <div align="center">
   <img src="https://github.com/aylafiryal/aylafiryal/blob/main/assets/github2.png">
+    </br>
+  <p>Enthusiastic software engineer eager to contribute to team success through hard work, attention to detail, and excellent organizational skills. A clear understanding of Object Oriented Programming and training in Web and Android development. Motivated to learn, grow, and be professional.<p>
 </div>
 
 <!-- - Divider -->
