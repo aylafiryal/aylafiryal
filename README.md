@@ -1,4 +1,6 @@
-![github2](https://github.com/aylafiryal/aylafiryal/assets/83856972/58f81f4e-a734-4066-93b5-b5dfd0931e7e)
+<div align="center">
+  <img src="https://github.com/aylafiryal/aylafiryal/blob/main/assets/github2.png">
+</div>
 
 <!-- - Divider -->
 
