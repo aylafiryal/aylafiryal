@@ -1,5 +1,4 @@
-![github](https://user-images.githubusercontent.com/83856972/175939139-ff986a0c-995f-4eb1-86a9-67a841c152ec.png)
-
+![github2](https://github.com/aylafiryal/aylafiryal/assets/83856972/341b435d-25d8-4d45-9c61-8c497e204d83)
 
 
 <!-- - 👋 Hi, I’m @aylafiryal -->
