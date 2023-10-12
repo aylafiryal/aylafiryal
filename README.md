@@ -5,8 +5,8 @@
 <!-- - Divider -->
 
 <!-- - Languages I Love: -->
-<h1 align="center">Languages I Love:</h1>
 <div align="center">
+  <h1>Languages I Love:</h1>
   <img  alt="JAVA" width="179" hight="203" src="https://github.com/aylafiryal/aylafiryal/blob/main/assets/java.png" />
   <img  alt="PHP" width="287" hight="114" src="https://github.com/aylafiryal/aylafiryal/blob/main/assets/php.png" />
   <img  alt="Javascript" width="164" hight="203" src="https://github.com/aylafiryal/aylafiryal/blob/main/assets/javas.png" />
@@ -21,10 +21,14 @@
 <!-- - Cheese -->
 
 <!-- - Social Media I Love: -->
-<h1 align="center">Languages I Love:</h1>
 <div align="center">
-  <img  alt="Linkedin" width="179" hight="203" src="https://github.com/aylafiryal/aylafiryal/blob/main/assets/java.png" />
-  <img  alt="Instagram" width="287" hight="114" src="https://github.com/aylafiryal/aylafiryal/blob/main/assets/php.png" />
+  <h1>Social Media I Love:</h1>
+  <a href="https://www.linkedin.com/in/aylafiryal/">
+    <img  alt="Linkedin" width="109" hight="117" src="https://github.com/aylafiryal/aylafiryal/blob/main/assets/ln.png" />
+  </a>
+  <a href="https://www.instagram.com/aylafiryal/">
+    <img  alt="Instagram" width="107" hight="105" src="https://github.com/aylafiryal/aylafiryal/blob/main/assets/ig.png" />
+  </a>
 </div>
 
 <!-- - Divider -->
