@@ -16,9 +16,13 @@
 
 <!-- - Things i Love: -->
 <!-- - Object Oriented Programming -->
-<!-- - Draw -->
-<!-- - Kyle Broflovski -->
-<!-- - Cheese -->
+
+<div align="center">
+  <h2>Things I Love:</h2>
+  <img  alt="Draw" width="130" hight="130" src="https://github.com/aylafiryal/aylafiryal/blob/main/assets/draw.png" />
+  <img  alt="Kyle Broflovski" width="130" hight="130" src="https://github.com/aylafiryal/aylafiryal/blob/main/assets/kyle.png" />
+  <img  alt="Cheese" width="130" hight="130" src="https://github.com/aylafiryal/aylafiryal/blob/main/assets/cheese.png" />
+</div>
 
 <!-- - Social Media I Love: -->
 <div align="center">
