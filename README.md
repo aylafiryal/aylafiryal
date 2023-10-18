@@ -13,20 +13,20 @@
   <img  alt="Javascript" width="124" hight="163" src="https://github.com/aylafiryal/aylafiryal/blob/main/assets/javas.png" />
   <img  alt="UML" width="116" hight="164" src="https://github.com/aylafiryal/aylafiryal/blob/main/assets/uml.png" />
 </div>
-
+</br>
 <!-- - Things i Love: -->
 <!-- - Object Oriented Programming -->
 
 <div align="center">
-  <h2>Things I Love:</h2>
+  <img  width="307" hight="9" src="https://github.com/aylafiryal/aylafiryal/blob/main/assets/things.gif" /></br>
   <img  alt="Draw" width="130" hight="130" src="https://github.com/aylafiryal/aylafiryal/blob/main/assets/draw.png" />
   <img  alt="Kyle Broflovski" width="130" hight="130" src="https://github.com/aylafiryal/aylafiryal/blob/main/assets/kyle.png" />
   <img  alt="Cheese" width="130" hight="130" src="https://github.com/aylafiryal/aylafiryal/blob/main/assets/cheese.png" />
 </div>
-
+</br>
 <!-- - Social Media I Love: -->
 <div align="center">
-  <h2>Social Media I Love:</h2>
+  <img  width="437" hight="9" src="https://github.com/aylafiryal/aylafiryal/blob/main/assets/social.gif" /></br>
   <a href="mailto:auliafiryalsyarifa@gmail.com">
     <img  alt="Gmail" width="119" hight="143" src="https://github.com/aylafiryal/aylafiryal/blob/main/assets/mail.png" />
   </a>
