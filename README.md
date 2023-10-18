@@ -7,7 +7,7 @@
 
 <!-- - Languages I Love: -->
 <div align="center">
-  <h2>Languages I Love:</h2>
+  <img  width="367" hight="9" src="https://github.com/aylafiryal/aylafiryal/blob/main/assets/lang.gif" /></br>
   <img  alt="JAVA" width="129" hight="153" src="https://github.com/aylafiryal/aylafiryal/blob/main/java.png" />
   <img  alt="PHP" width="217" hight="44" src="https://github.com/aylafiryal/aylafiryal/blob/main/assets/php.png" />
   <img  alt="Javascript" width="124" hight="163" src="https://github.com/aylafiryal/aylafiryal/blob/main/assets/javas.png" />
