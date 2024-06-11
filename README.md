@@ -33,7 +33,7 @@
   <a href="https://www.linkedin.com/in/aylafiryal/">
     <img  alt="Linkedin" width="109" hight="107" src="https://github.com/aylafiryal/aylafiryal/blob/main/assets/ln.png" />
   </a>
-  <a href="https://www.instagram.com/aylafiryal/">
+  <a href="https://www.instagram.com/sanctionedalyafiryal/">
     <img  alt="Instagram" width="107" hight="105" src="https://github.com/aylafiryal/aylafiryal/blob/main/assets/ig.png" />
   </a>
 </div>
